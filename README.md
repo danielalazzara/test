@@ -1,5 +1,11 @@
 # This is a test
 
+## testing a link
+
+[link to a page](test.html)
+
+## lorem ipsum
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at leo tristique ligula accumsan aliquam in a mauris. Etiam sit amet nulla vulputate, pretium magna quis, pellentesque dolor. Proin varius sapien sit amet nulla scelerisque, elementum tempus velit euismod. Suspendisse interdum eros eget velit sagittis ullamcorper. Aliquam volutpat ligula ut fringilla hendrerit. Donec iaculis, mi ac venenatis pretium, lectus mauris interdum neque, id porttitor tortor dui sed odio. Quisque pulvinar mi at enim hendrerit, nec elementum purus congue. Etiam sed diam id urna finibus rhoncus. Maecenas maximus mauris ac dolor ultricies volutpat. Donec ultrices convallis fermentum. Suspendisse vel ligula et sem varius eleifend. Vestibulum molestie venenatis posuere. Fusce libero augue, pellentesque sed maximus vel, efficitur sit amet tellus.
 
 Nam ut metus vel ante feugiat efficitur vitae quis risus. Donec finibus pellentesque lorem. Sed turpis enim, convallis sed vulputate non, gravida ac erat. Quisque eu iaculis ex. Vestibulum ac velit enim. Sed interdum, justo eget ornare luctus, turpis eros varius lectus, sit amet tristique lectus turpis vitae sem. Nullam a justo sed libero dignissim tincidunt. Suspendisse magna ipsum, laoreet sit amet neque eget, accumsan semper odio. Donec erat massa, imperdiet vitae urna ut, lobortis mattis elit. Donec id est vel ex faucibus cursus sed quis purus. Integer malesuada ultricies nunc id gravida. Aenean mollis ante eget congue tincidunt.
